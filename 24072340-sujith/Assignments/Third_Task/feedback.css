@@ -1,0 +1,25 @@
+.box{
+    border-style: solid;
+    height: 330px;
+    width: 500px;
+    text-align: justify;
+    text-align: center;
+    
+}
+.inner_box{
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+.class1{
+    margin-top: 70px;
+}
+.class2{
+    border: 2px black solid;
+    margin-left: 300px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin-top: -150px;
+}
+
